@@ -1,0 +1,19 @@
+export const colorGrey100 = '#F5F5F5';
+export const colorGrey200 = '#F0F0F0';
+export const colorGrey300 = '#D9D9D9';
+export const colorGrey400 = '#BFBFBF';
+export const colorGrey500 = '#8C8C8C';
+export const colorGrey600 = '#434343';
+export const colorGrey700 = '#262626';
+export const colorGrey800 = '#1F1F1F';
+export const colorGrey900 = '#141414';
+
+export const colorGold100 = '#FFFCF0';
+export const colorGold200 = '#FFF4D1';
+export const colorGold300 = '#FFE8A8';
+export const colorGold400 = '#FFD980';
+export const colorGold500 = '#FFC757';
+export const colorGold600 = '#FFB22E';
+export const colorGold700 = '#D98D1C';
+export const colorGold800 = '#B36B0E';
+export const colorGold900 = '#8C4D04';

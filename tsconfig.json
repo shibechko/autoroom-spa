@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "baseUrl": "src",
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "paths": {
+      "@autrm/assets/*": ["./assets/*"],
+      "@autrm/assets/income/*": ["./assets/income/*"],
+      "@autrm/common/components/*": ["./common/components/*"],
+      "@autrm/common/hooks/*": ["./common/hooks/*"],
+      "@autrm/common/tokens/*": ["./common/tokens/*"],
+      "@autrm/common/types/*": ["./common/types/*"],
+      "@autrm/common/utils/*": ["./common/utils/*"],
+      "@autrm/components/*": ["./components/*"],
+      "@autrm/pages/*": ["./pages/*"],
+      "@autrm/*": ["./*"],
+    }
+  },
+  "include": [
+    "src"
+  ]
+}
