@@ -10,6 +10,7 @@ export function Header() {
 
                 <ul className="navbar-nav">
                     <li className="nav-item"><a href="/" className="nav-link px-2 link-secondary">Home</a></li>
+                    <li className="nav-item"><a href="/calc" className="nav-link px-2">Calculator</a></li>
                     <li className="nav-item"><a href="/about" className="nav-link px-2">About</a></li>
                 </ul>
 

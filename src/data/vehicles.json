@@ -1,0 +1,17 @@
+[
+    {
+        "type": "auto",
+        "title": "Атомобиль",
+        "portTransit": 600
+    },
+    {
+        "type": "moto",
+        "title": "Мотоцикл",
+        "portTransit": 375
+    },
+    {
+        "type": "board",
+        "title": "Лодка",
+        "portTransit": 300
+    }
+]
